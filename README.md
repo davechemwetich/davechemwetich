@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on  **[Flutter application](https:///)**
+- 🔭 I’m currently working on  **[Flutter projects](https:///)**
 
 - 🌱 I’m currently learning **Containerization Technology Docker.**
 
