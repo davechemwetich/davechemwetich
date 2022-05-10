@@ -1,8 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm dave</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -15,8 +10,6 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://davechemwetich.com)**
 
 - 📫 How to reach me **dchemwetich@outlook.com**
-
-- ⚡ Fun fact **I play games and cycle very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -65,17 +58,6 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/david-chemwetich/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/dave_kc47"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dave_kc47/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=david-chemwetich">
