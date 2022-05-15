@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  **[Flutter projects](https:///)**
 
-- 🌱 I’m currently learning **Containerization Technology  Kubernetes.**
+- 🌱 I’m currently learning **Containerization Technology .**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://davechemwetich.com)**
 
