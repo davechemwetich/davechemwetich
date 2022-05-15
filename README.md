@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://davechemwetich.com)**
 
-- 📫 How to reach me **dchemwetich@outlook.com**
+- 📫 How to reach me <a href="https://www.dreamhacks.us" target="_blank">****
 
 ## 🚀 Languages and Tools:
 
