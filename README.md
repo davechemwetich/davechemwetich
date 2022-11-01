@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://davechemwetich.com)**
 
-- 📫 How to reach me <a href="https://www.us" target="_blank">mail</a>
+- 📫 How to reach me <a href="https://www.us" target="_blank">greyhat@null.net</a>
 
 ## 🚀 Languages and Tools:
 
