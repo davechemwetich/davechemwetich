@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Containerization Technology .**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://devenvzone.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://devenvzone.app/)**
 
 - 📫 How to reach me <a href="https://www.us" target="_blank">greyhat@null.net</a>
 
