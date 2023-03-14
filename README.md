@@ -39,4 +39,4 @@
     
     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davechemwetich&showicons=true&count_private=true&theme=dark)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davechemwetich&langs_count=5&theme=dark)]()
+
