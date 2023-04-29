@@ -31,8 +31,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=david-chemwetich">
 </a>
-<a href="https://github.com/david-chemwetich?tab=followers"><img src="https://img.shields.io/github/followers/david-chemwetich?label=Followers&style=social" alt="GitHub Badge"></a>
-    
-    
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davechemwetich&showicons=true&count_private=true&theme=dark)]()
 
