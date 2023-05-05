@@ -1,9 +1,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on  **[Learning State Management Using Riverpod](https:)**
+- 🔭 I’m currently working on  **[Next Marketplace Flutter App](https:)**
 
-- 🌱 I’m currently learning **Cloudflare Tunnel  Containerization Technology .**
+- 🌱  Currently learning Technologies **Cloudflare Tunnel  Containerization Technology .**
 
 ## 🚀 Languages and Tools:
 
