@@ -1,7 +1,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on  **[Next Marketplace Flutter App](https:)**
+- 🔭 I’m currently working on a  **[Next Marketplace Flutter App](https:)**
 
 - 🌱  Currently learning Technologies **Cloudflare Tunnel  Containerization Technology .**
 
