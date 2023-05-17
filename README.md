@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a  **[Next Marketplace Flutter App](https:)**
 
-- 🌱  Currently learning Technologies **Cloudflare Tunnel  Containerization Technology .**
+- 🌱  Currently learning Technologies **Cloudflare Tunnel.**
 
 ## 🚀 Languages and Tools:
 
