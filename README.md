@@ -1,7 +1,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a  **[Next Facebook  Bot App](https:)**
+- 🔭 I’m currently working on a  **[ Facebook  Bot App](https:)**
 
 - 🌱  Currently learning Technologies **Cloudflare Tunnel.**
 
